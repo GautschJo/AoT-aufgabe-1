@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="AutoImportedSourceRoots">
+    <option name="directories">
+      <list>
+        <option value="C:\Users\gauts\OneDrive\Dokumente\Uni\AOT\aufgabe 1\jiac-aot-2022_01/src/main/java" />
+        <option value="C:\Users\gauts\OneDrive\Dokumente\Uni\AOT\aufgabe 1\jiac-aot-2022_01/src/main/kotlin" />
+        <option value="C:\Users\gauts\OneDrive\Dokumente\Uni\AOT\aufgabe 1\jiac-aot-2022_01/src/main/resources" />
+      </list>
+    </option>
+  </component>
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <stringArguments>
+            <stringArg name="jvmTarget" arg="11" />
+            <stringArg name="apiVersion" arg="1.3" />
+            <stringArg name="languageVersion" arg="1.3" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: de.dailab.incubator.jiacvi:jiacvi-core:0.2.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.50" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-erased-jvm:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-core-jvm:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.30" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-conf-jvm:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: de.dailab.incubator.jiacvi:jiacvi-common:0.2.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-erased-metadata:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-core-metadata:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.kodein.di:kodein-di-conf-metadata:6.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.12.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.logging.log4j:log4j-core:2.12.1" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe:config:1.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.agrona:agrona:1.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.organicdesign:Paguro:3.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.10.0" level="project" />
+  </component>
+</module>

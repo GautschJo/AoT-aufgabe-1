@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.dailab.incubator.jiacvi:jiacvi-core:0.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/incubator/jiacvi/jiacvi-core/0.2.0-SNAPSHOT/jiacvi-core-0.2.0-20191128.142909-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/incubator/jiacvi/jiacvi-core/0.2.0-SNAPSHOT/jiacvi-core-0.2.0-20191128.142909-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/incubator/jiacvi/jiacvi-core/0.2.0-SNAPSHOT/jiacvi-core-0.2.0-20191128.142909-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
